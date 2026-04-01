@@ -17,7 +17,7 @@ class Books:
         print(f"price is {self.price}")
 
 
-class EBook(Books):
+class EBook(Books): 
   
     def __init__(self,title,author,price,size):
         super().__init__(title, author, price)

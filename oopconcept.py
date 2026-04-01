@@ -23,11 +23,11 @@ class Student:
             print("fail")
 
 
-studentobj = Student("mia Kalifa ",1,95)
+studentobj = Student("himani ",1,95)
 studentobj.display()
 studentobj.result()
 
 
-studentobj = Student("Dani daniels",2,100)
+studentobj = Student("anita",2,100)
 studentobj.display()
 studentobj.result()
